@@ -1,8 +1,9 @@
 <div style="display:flex; align-items:center; flex-direction:column">
     <h1>🔹 ByteIcons</h1>
     <p>ByteIcons is a small creative project of mine. I'm working alone on it. Most Icons are made for my personal use. But i would like to provide more Icons to the community. If you want an Icon added, please open an Issue. </p>
-
 </div>
+
+> If these icons make your projects dance, a little shoutout would be awesome 🕺🏼
 
 ## 📋 Table of Contents
 
@@ -21,13 +22,11 @@
 
 </details>
 
-## ⚙️ Installation
+## ⚙️ Installation & Usage
 
 ### 🔧 React
 
 ### 🔧 Next (Image Component)
-
-## 🔧 Usage
 
 ## 🛠️ Contributing
 
