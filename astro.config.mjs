@@ -2,7 +2,6 @@ import starlight from "@astrojs/starlight";
 import { astroImageTools } from "astro-imagetools";
 import { defineConfig } from "astro/config";
 
-// https://astro.build/config
 export default defineConfig({
   integrations: [
     starlight({
@@ -19,12 +18,8 @@ export default defineConfig({
           label: "Guides",
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: "Example Guide", link: "/guides/example/" },
+            { label: "Getting started", link: "/guides/getting-started/" },
           ],
-        },
-        {
-          label: "Reference",
-          autogenerate: { directory: "reference" },
         },
       ],
     }),
