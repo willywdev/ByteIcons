@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 512 512" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="259.133" x2="262.132" y1="-2.91364" y2="511.864">
+<stop offset="0" stop-color="#6f6f6f"/>
+<stop offset="1" stop-color="#212121"/>
+</linearGradient>
+</defs>
+<g id="Ebene-1" vectornator:layerName="Ebene 1">
+<path d="M2.84217e-14 95C2.84217e-14 42.5329 42.5329 0 95 0L417 0C469.467 0 512 42.5329 512 95L512 417C512 469.467 469.467 512 417 512L95 512C42.5329 512 2.84217e-14 469.467 2.84217e-14 417L2.84217e-14 95Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rechteck 1"/>
+</g>
+<g id="Ebene-2" vectornator:layerName="Ebene 2">
+<g opacity="1" vectornator:layerName="css-3.svg">
+<path d="M110.117 414.629L80.7721 56L431.228 56.7207L400.198 414.629L257.323 456L110.117 414.629Z" fill="#1b73ba" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M257.323 421.364L257.323 90.1553L401.643 90.6358L375.907 386.969L257.323 421.364Z" fill="#1c88c7" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M365.803 132.49L143.792 132.49L149.806 175.782L255.158 175.782L151.491 220.282L157.502 262.133L310.242 262.133L304.708 320.58L252.993 330.684L206.091 318.658L202.482 285.464L159.427 285.464L165.198 354.498L257.563 380.234L346.081 352.093L357.386 217.153L263.815 217.153L365.8 174.821L365.803 132.49Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
+</g>
+</svg>

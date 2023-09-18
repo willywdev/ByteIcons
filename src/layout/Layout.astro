@@ -1,0 +1,25 @@
+---
+import Socials from "../components/Socials.astro";
+const { title } = Astro.props;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+  </head>
+  <body class="flex flex-col items-center mt-16">
+    <slot />
+    <Socials />
+  </body>
+</html>
+
+<style is:global>
+  html {
+    color: #252422;
+    background-color: #f0ebd8;
+  }
+</style>

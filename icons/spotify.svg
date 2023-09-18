@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 512 512" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="257.506" x2="255.859" y1="-0.116183" y2="511.166">
+<stop offset="0.000578055" stop-color="#7a8c85"/>
+<stop offset="1" stop-color="#1d1d1d"/>
+</linearGradient>
+</defs>
+<g id="Ebene-1" vectornator:layerName="Ebene 1">
+<path d="M2.84217e-14 95C2.84217e-14 42.5329 42.5329 0 95 0L417 0C469.467 0 512 42.5329 512 95L512 417C512 469.467 469.467 512 417 512L95 512C42.5329 512 2.84217e-14 469.467 2.84217e-14 417L2.84217e-14 95Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rechteck 1"/>
+</g>
+<g id="Ebene-2" vectornator:layerName="Ebene 2">
+<path d="M256 56C145.539 56 56 145.539 56 256C56 366.461 145.539 456 256 456C366.461 456 456 366.461 456 256C456 145.553 366.461 56.0136 256 56ZM347.723 344.448C344.134 350.343 336.45 352.186 330.582 348.596C283.622 319.896 224.502 313.414 154.888 329.313C148.173 330.855 141.486 326.652 139.958 319.937C138.416 313.223 142.605 306.536 149.333 305.007C225.512 287.607 290.869 295.099 343.588 327.307C349.456 330.923 351.326 338.579 347.723 344.448ZM372.192 290.009C367.675 297.351 358.068 299.644 350.739 295.14C296.996 262.1 215.031 252.534 151.449 271.831C143.206 274.328 134.499 269.675 131.988 261.445C129.504 253.202 134.158 244.509 142.387 241.998C215.017 219.958 305.321 230.63 367.047 268.569C374.39 273.086 376.71 282.68 372.192 290.009ZM374.294 233.291C309.825 195.011 203.485 191.49 141.937 210.159C132.056 213.161 121.602 207.58 118.613 197.699C115.625 187.818 121.193 177.365 131.087 174.362C201.739 152.923 319.173 157.058 393.387 201.111C402.271 206.392 405.191 217.87 399.924 226.74C394.669 235.638 383.165 238.573 374.294 233.291Z" fill="#1db954" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
+</svg>

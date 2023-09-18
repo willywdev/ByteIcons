@@ -1,0 +1,18 @@
+---
+const icons = await Astro.glob("/icons/*.svg");
+---
+
+<section class="grid grid-cols-10 gap-2">
+  {
+    icons.map((icon) => {
+      return (
+        <img
+          src={icon.default.src}
+          alt="Android"
+          loading="lazy"
+          class="w-16 h-16"
+        />
+      );
+    })
+  }
+</section>
