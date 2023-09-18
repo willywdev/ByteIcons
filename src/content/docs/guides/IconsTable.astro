@@ -1,0 +1,31 @@
+---
+const icons = await Astro.glob("../../../icons/*.svg");
+---
+
+<section class="icons-wrapper">
+  {
+    icons.map((icon) => {
+      return (
+        <img
+          src={icon.default.src}
+          alt="ByteIcons Icon"
+          class="icons"
+          loading="lazy"
+        />
+      );
+    })
+  }
+</section>
+
+<style>
+  .icons-wrapper {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    align-items: last baseline;
+    justify-items: start;
+  }
+  .icons {
+    width: 74px;
+    height: 74px;
+  }
+</style>
