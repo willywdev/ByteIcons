@@ -8,7 +8,7 @@ const icons = await Astro.glob("../../../icons/*.svg");
       return (
         <img
           src={icon.default.src}
-          alt="ByteIcons Icon"
+          alt="Android"
           class="icons"
           loading="lazy"
         />
@@ -22,7 +22,7 @@ const icons = await Astro.glob("../../../icons/*.svg");
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     align-items: last baseline;
-    justify-items: start;
+    justify-items: center;
   }
   .icons {
     width: 74px;
