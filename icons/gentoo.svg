@@ -4,8 +4,8 @@
 <svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 512 512" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
 <linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="246.99" x2="254.91" y1="-0.49038" y2="505.165">
-<stop offset="0.000578055" stop-color="#8ba4d5"/>
-<stop offset="1" stop-color="#582e82"/>
+<stop offset="0.000578055" stop-color="#a6c4fe"/>
+<stop offset="1" stop-color="#914cd6"/>
 </linearGradient>
 <linearGradient gradientTransform="matrix(0.849025 0 0 -0.849025 1648.65 796.813)" gradientUnits="userSpaceOnUse" id="LinearGradient_2" x1="-1599.24" x2="-1639.04" y1="918.2" y2="679.198">
 <stop offset="0" stop-color="#7b7bdf"/>
