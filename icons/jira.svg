@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 512 512" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="142.372" x2="255.982" y1="168.828" y2="168.828">
+<stop offset="0.18" stop-color="#0052cc"/>
+<stop offset="1" stop-color="#2684ff"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="LinearGradient_2" x1="255.982" x2="369.529" y1="343.414" y2="343.414">
+<stop offset="0.18" stop-color="#0052cc"/>
+<stop offset="1" stop-color="#2684ff"/>
+</linearGradient>
+</defs>
+<g id="Ebene-1" vectornator:layerName="Ebene 1">
+<path d="M2.84217e-14 95C2.84217e-14 42.5329 42.5329 0 95 0L417 0C469.467 0 512 42.5329 512 95L512 417C512 469.467 469.467 512 417 512L95 512C42.5329 512 2.84217e-14 469.467 2.84217e-14 417L2.84217e-14 95Z" fill="#242628" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rechteck 1"/>
+</g>
+<g id="Ebene-2" vectornator:layerName="Ebene 2">
+<g opacity="1" vectornator:layerName="jira-3.svg">
+<path d="M421.185 246.203L270.576 95.5937L255.982 81L142.607 194.375L90.763 246.203C85.372 251.622 85.372 260.378 90.763 265.797L194.341 369.375L255.982 431L369.341 317.625L371.107 315.875L421.185 265.875C423.806 263.273 425.28 259.732 425.28 256.039C425.28 252.346 423.806 248.805 421.185 246.203ZM255.982 307.75L204.232 256L255.982 204.25L307.716 256L255.982 307.75Z" fill="#2684ff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M255.982 204.25C222.101 170.377 221.933 115.501 255.607 81.4219L142.372 194.609L203.997 256.234L255.982 204.25Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M307.857 255.859L255.982 307.75C290.001 341.779 290.001 396.94 255.982 430.969L369.529 317.484L307.857 255.859Z" fill="url(#LinearGradient_2)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
+</g>
+</svg>

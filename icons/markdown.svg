@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 512 512" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Ebene-1" vectornator:layerName="Ebene 1">
+<path d="M2.84217e-14 95C2.84217e-14 42.5329 42.5329 0 95 0L417 0C469.467 0 512 42.5329 512 95L512 417C512 469.467 469.467 512 417 512L95 512C42.5329 512 2.84217e-14 469.467 2.84217e-14 417L2.84217e-14 95Z" fill="#28334c" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rechteck 1"/>
+<path d="M428.455 379.353L84.7422 379.353C69.1734 379.353 56 366.181 56 350.611L56 161.389C56 145.82 69.1734 132.647 84.7422 132.647L427.258 132.647C442.827 132.647 456 145.82 456 161.389L456 350.611C456 366.18 444.023 379.353 428.455 379.353ZM84.7422 151.808C79.9516 151.808 75.1609 156.598 75.1609 161.389L75.1609 350.611C75.1609 356.598 79.9516 360.192 84.7422 360.192L427.258 360.192C433.245 360.192 436.839 355.402 436.839 350.611L436.839 161.389C436.839 155.402 432.048 151.808 427.258 151.808L84.7422 151.808ZM113.484 321.869L113.484 190.131L151.808 190.131L190.131 238.037L228.455 190.131L266.778 190.131L266.778 321.869L228.455 321.869L228.455 246.419L190.131 294.325L151.808 246.419L151.808 321.869L113.484 321.869ZM354.203 321.869L296.719 258.395L335.042 258.395L335.042 190.131L373.366 190.131L373.366 257.198L411.689 257.198L354.205 321.869L354.203 321.869Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
+</svg>

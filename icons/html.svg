@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 512 512" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Ebene-1" vectornator:layerName="Ebene 1">
+<path d="M2.84217e-14 95C2.84217e-14 42.5329 42.5329 0 95 0L417 0C469.467 0 512 42.5329 512 95L512 417C512 469.467 469.467 512 417 512L95 512C42.5329 512 2.84217e-14 469.467 2.84217e-14 417L2.84217e-14 95Z" fill="#e34f26" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rechteck 1"/>
+</g>
+<g id="Ebene-2" vectornator:layerName="Ebene 2">
+<g opacity="1" vectornator:layerName="html-1.svg">
+<path d="M108.79 89.5043L125.066 267.45L259.011 267.45L328.249 267.45L320.285 343.358L259.011 359.883L255.179 360.928L189.177 341.765L185.693 296.519L127.306 296.519L135.27 389.001L255.179 422.5L259.011 421.455L376.083 389.001L392.359 208.467L259.011 208.467L259.011 147.542L397.784 147.542L403.21 89.5043L259.011 89.5043L108.79 89.5043Z" fill="#e34f26" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M259.011 89.5043L259.011 147.542L397.784 147.542L403.21 89.5043L259.011 89.5043Z" fill="#ef652a" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M259.011 208.467L259.011 267.45L328.249 267.45L320.285 343.358L259.011 359.883L259.011 421.455L376.083 389.001L392.359 208.467L259.011 208.467Z" fill="#ef652a" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M397.766 147.55L403.185 89.5L108.801 89.5L125.066 267.473L328.234 267.473L320.266 343.38L255.201 360.919L189.179 341.784L185.672 296.494L127.299 296.494L135.274 388.989L255.197 422.477L376.075 388.989L392.34 208.467L178.971 208.467L172.911 147.55L397.766 147.55Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
+</g>
+</svg>

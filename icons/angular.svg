@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 512 512" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Ebene-1" vectornator:layerName="Ebene 1">
+<path d="M2.84217e-14 95C2.84217e-14 42.5329 42.5329 0 95 0L417 0C469.467 0 512 42.5329 512 95L512 417C512 469.467 469.467 512 417 512L95 512C42.5329 512 2.84217e-14 469.467 2.84217e-14 417L2.84217e-14 95Z" fill="#242628" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rechteck 1"/>
+</g>
+<g id="Ebene-2" vectornator:layerName="Ebene 2">
+<g opacity="1" vectornator:layerName="angular-icon-1.svg">
+<path d="M78.2621 129.986L253.639 67.5L433.738 128.876L404.577 360.907L253.639 444.5L105.062 362.019L78.2621 129.986Z" fill="#e23237" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M433.738 128.876L253.639 67.5L253.639 444.5L404.577 361.046L433.738 128.876Z" fill="#b52e31" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M253.916 111.519L144.635 354.66L185.46 353.965L207.4 299.115L305.432 299.115L329.456 354.66L368.474 355.353L253.916 111.519ZM254.194 189.418L291.13 266.623L221.701 266.623L254.194 189.418Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
+</g>
+</svg>

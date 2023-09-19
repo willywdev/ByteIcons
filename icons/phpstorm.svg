@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 512 512" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(1.5625 0 0 1.5625 56 56)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="1.96" x2="109.44" y1="282.484" y2="48.2741">
+<stop offset="0.02" stop-color="#765af8"/>
+<stop offset="0.38" stop-color="#b345f1"/>
+<stop offset="0.76" stop-color="#fa3293"/>
+<stop offset="0.94" stop-color="#ff318c"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.5625 0 0 1.5625 56 56)" gradientUnits="userSpaceOnUse" id="LinearGradient_2" x1="185.96" x2="125.32" y1="169.68" y2="25.74">
+<stop offset="0.18" stop-color="#765af8"/>
+<stop offset="0.24" stop-color="#8655f6"/>
+<stop offset="0.34" stop-color="#9f4cf3"/>
+<stop offset="0.44" stop-color="#ae47f2"/>
+<stop offset="0.52" stop-color="#b345f1"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.5625 0 0 1.5625 56 56)" gradientUnits="userSpaceOnUse" id="LinearGradient_3" x1="231.3" x2="90.24" y1="209.76" y2="100.68">
+<stop offset="0.02" stop-color="#765af8"/>
+<stop offset="0.38" stop-color="#b345f1"/>
+</linearGradient>
+</defs>
+<g id="Ebene-1" vectornator:layerName="Ebene 1">
+<path d="M2.84217e-14 95C2.84217e-14 42.5329 42.5329 0 95 0L417 0C469.467 0 512 42.5329 512 95L512 417C512 469.467 469.467 512 417 512L95 512C42.5329 512 2.84217e-14 469.467 2.84217e-14 417L2.84217e-14 95Z" fill="#232531" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rechteck 1"/>
+<g opacity="1" vectornator:layerName="g 1">
+<path d="M56 132.875L124.125 56L263.5 86L282.25 142.875L268.5 241.625L213.09 213.268L216 292.25L216 361L94.125 362.25L56 132.875Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M182.25 290.375L189.75 196L302.875 79.75L404.125 98.5L456 227.875L401.625 281.625L313.5 267.25L257.875 324.75L182.25 290.375Z" fill="url(#LinearGradient_2)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="polygon"/>
+<path d="M302.875 79.75L140.375 224.125L171.625 409.125L306.625 456L456 366.625L302.875 79.75Z" fill="url(#LinearGradient_3)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="polygon"/>
+<path d="M131 131L381 131L381 131L381 381L381 381L131 381L131 381L131 131L131 131Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="rect"/>
+<path d="M154.75 334.125L248.5 334.125L248.5 349.75L154.75 349.75L154.75 334.125ZM153.5 163.5L196 163.5C221 163.5 236 177.875 236 199.125C236 222.875 217.25 235.375 194.125 235.375L176.625 235.375L176.625 266.625L153.5 266.625L153.5 163.5L153.5 163.5ZM194.75 216.625C205.656 216.625 212.875 209.125 212.875 200.375C212.875 190.375 206 184.75 194.125 184.75L176.625 184.75L176.625 216.625L194.75 216.625ZM241.625 252.25L255.375 236C264.75 243.5 274.75 248.5 286.625 248.5C296 248.5 301.625 244.75 301.625 238.5C301.625 232.875 297.875 229.75 280.375 225.375C259.125 219.75 246 214.125 246 193.5L246 192.875C246 174.125 261 161.625 282.25 161.625C296.268 161.565 309.904 166.184 321 174.75L309.125 192.25C299.75 186 291 182.25 282.25 182.25C273.5 182.25 269.125 186 269.125 191.625C269.125 198.5 273.5 201 291.625 205.375C312.875 211 324.75 218.5 324.75 236.625C324.75 257.25 309.125 269.125 286.625 269.125C270.038 269.349 253.974 263.325 241.625 252.25Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
+</g>
+</svg>

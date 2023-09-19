@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 512 512" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(1.5625 0 0 1.5625 56 56)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="81.38" x2="166.96" y1="55.4" y2="55.4">
+<stop offset="0" stop-color="#ed358c"/>
+<stop offset="0.16" stop-color="#e9388c"/>
+<stop offset="0.3" stop-color="#de418c"/>
+<stop offset="0.43" stop-color="#cc508c"/>
+<stop offset="0.57" stop-color="#b2658d"/>
+<stop offset="0.7" stop-color="#90808d"/>
+<stop offset="0.83" stop-color="#67a18e"/>
+<stop offset="0.95" stop-color="#37c78f"/>
+<stop offset="1" stop-color="#22d88f"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.5625 0 0 1.5625 56 56)" gradientUnits="userSpaceOnUse" id="LinearGradient_2" x1="65.1597" x2="27.5203" y1="32.8192" y2="285.459">
+<stop offset="0.09" stop-color="#22d88f"/>
+<stop offset="0.9" stop-color="#029de0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.5625 0 0 1.5625 56 56)" gradientUnits="userSpaceOnUse" id="LinearGradient_3" x1="26630.3" x2="-2746.84" y1="-158020" y2="-190551">
+<stop offset="0.09" stop-color="#22d88f"/>
+<stop offset="0.9" stop-color="#029de0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.5625 0 0 1.5625 56 56)" gradientUnits="userSpaceOnUse" id="LinearGradient_4" x1="9817.94" x2="16296.2" y1="-108391" y2="-109412">
+<stop offset="0.09" stop-color="#22d88f"/>
+<stop offset="0.9" stop-color="#029de0"/>
+</linearGradient>
+</defs>
+<g id="Ebene-1" vectornator:layerName="Ebene 1">
+<path d="M2.84217e-14 95C2.84217e-14 42.5329 42.5329 0 95 0L417 0C469.467 0 512 42.5329 512 95L512 417C512 469.467 469.467 512 417 512L95 512C42.5329 512 2.84217e-14 469.467 2.84217e-14 417L2.84217e-14 95Z" fill="#232531" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rechteck 1"/>
+<g opacity="1" vectornator:layerName="clion-1.svg">
+<path d="M209.75 217.875L182.875 229.125L207.25 56L299.125 106.625L209.75 217.875Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M195.375 296L208.5 56L92.875 128.5L56 349.75L195.375 296Z" fill="url(#LinearGradient_2)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M447.875 176L396.625 71L299.125 106.625L227.875 185.375L56 349.75L186 444.75L348.5 297.25L447.875 176Z" fill="url(#LinearGradient_3)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M224.125 226.625L201.625 363.5L292.875 434.125L392.875 456L456 313.5L224.125 226.625Z" fill="url(#LinearGradient_4)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M131 131L381 131L381 381L131 381L131 131Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M154.75 334.125L248.5 334.125L248.5 349.75L154.75 349.75L154.75 334.125ZM152.875 216C152.556 201.649 158.116 187.791 168.266 177.641C178.416 167.491 192.274 161.931 206.625 162.25C226 162.25 237.875 168.5 247.25 178.5L232.875 195.375C224.75 187.875 216.625 183.5 206.625 183.5C189.125 183.5 176.625 197.875 176.625 216C176.625 233.5 189.125 248.5 206.625 248.5C218.5 248.5 226 243.5 234.125 236.625L248.5 251C237.875 262.25 226 269.75 206 269.75C191.801 269.751 178.193 264.068 168.212 253.97C158.231 243.871 152.708 230.198 152.875 216ZM264.125 163.5L287.25 163.5L287.25 247.875L332.25 247.875L332.25 267.25L264.125 267.25C264.125 267.25 264.125 163.5 264.125 163.5Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
+</g>
+</svg>

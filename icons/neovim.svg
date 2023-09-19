@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 512 512" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(2.74737 0 0 2.74737 89.4478 52.4435)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="15.6755" x2="15.6755" y1="0.573" y2="147.571">
+<stop offset="0" stop-color="#16b0ed" stop-opacity="0.8"/>
+<stop offset="1" stop-color="#0f59b2" stop-opacity="0.837"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(-2.74737 0 0 2.74737 667.755 52.4435)" gradientUnits="userSpaceOnUse" id="LinearGradient_2" x1="105.247" x2="105.247" y1="0.59" y2="147.571">
+<stop offset="0" stop-color="#7db643"/>
+<stop offset="1" stop-color="#367533"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(2.74737 0 0 2.74737 89.4478 52.4435)" gradientUnits="userSpaceOnUse" id="LinearGradient_3" x1="60.605" x2="60.605" y1="0.598" y2="147.61">
+<stop offset="0" stop-color="#88c649" stop-opacity="0.8"/>
+<stop offset="1" stop-color="#439240" stop-opacity="0.84"/>
+</linearGradient>
+</defs>
+<g id="Ebene-1" vectornator:layerName="Ebene 1">
+<path d="M2.84217e-14 95C2.84217e-14 42.5329 42.5329 0 95 0L417 0C469.467 0 512 42.5329 512 95L512 417C512 469.467 469.467 512 417 512L95 512C42.5329 512 2.84217e-14 469.467 2.84217e-14 417L2.84217e-14 95Z" fill="#232531" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rechteck 1"/>
+<g opacity="1" vectornator:layerName="neovim.svg">
+<path d="M89.5 140.876L175.528 54.0178L175.528 457.875L89.5027 372.02L89.5027 140.878L89.5 140.876Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M421.909 141.694L334.702 54.0645L336.469 457.875L422.5 372.02L421.909 141.694Z" fill="url(#LinearGradient_2)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M175.471 54.0864L399.139 395.394L336.551 457.982L112.765 117.43L175.471 54.0864Z" fill="url(#LinearGradient_3)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M175.55 212.395L175.429 225.838L106.372 123.883L112.765 117.372L175.55 212.395Z" fill="#000000" fill-opacity="0.13" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
+</g>
+</svg>

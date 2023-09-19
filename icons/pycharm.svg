@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 512 512" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(1.5625 0 0 1.5625 56 56)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="91.42" x2="243.78" y1="98.8" y2="98.8">
+<stop offset="0" stop-color="#21d789"/>
+<stop offset="1" stop-color="#07c3f2"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.5625 0 0 1.5625 56 56)" gradientUnits="userSpaceOnUse" id="LinearGradient_2" x1="-89.78" x2="223.92" y1="216.06" y2="-15.52">
+<stop offset="0.01" stop-color="#fcf84a"/>
+<stop offset="0.11" stop-color="#a7eb62"/>
+<stop offset="0.21" stop-color="#5fe077"/>
+<stop offset="0.27" stop-color="#32da84"/>
+<stop offset="0.31" stop-color="#21d789"/>
+<stop offset="0.58" stop-color="#21d789"/>
+<stop offset="0.6" stop-color="#21d789"/>
+<stop offset="0.69" stop-color="#20d68c"/>
+<stop offset="0.76" stop-color="#1ed497"/>
+<stop offset="0.83" stop-color="#19d1a9"/>
+<stop offset="0.9" stop-color="#13ccc2"/>
+<stop offset="0.97" stop-color="#0bc6e1"/>
+<stop offset="1" stop-color="#07c3f2"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.5625 0 0 1.5625 56 56)" gradientUnits="userSpaceOnUse" id="LinearGradient_3" x1="34.14" x2="86.46" y1="283.96" y2="119.78">
+<stop offset="0" stop-color="#21d789"/>
+<stop offset="0.16" stop-color="#24d788"/>
+<stop offset="0.3" stop-color="#2fd886"/>
+<stop offset="0.44" stop-color="#41da82"/>
+<stop offset="0.56" stop-color="#5adc7d"/>
+<stop offset="0.69" stop-color="#7ae077"/>
+<stop offset="0.81" stop-color="#a1e36e"/>
+<stop offset="0.93" stop-color="#cfe865"/>
+<stop offset="1" stop-color="#f1eb5e"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.5625 0 0 1.5625 56 56)" gradientUnits="userSpaceOnUse" id="LinearGradient_4" x1="103.42" x2="217.28" y1="141.22" y2="-11.86">
+<stop offset="0" stop-color="#21d789"/>
+<stop offset="0.06" stop-color="#24d788"/>
+<stop offset="0.11" stop-color="#2fd886"/>
+<stop offset="0.16" stop-color="#41da82"/>
+<stop offset="0.21" stop-color="#5add7d"/>
+<stop offset="0.25" stop-color="#79e077"/>
+<stop offset="0.26" stop-color="#7ce076"/>
+<stop offset="0.5" stop-color="#8ce173"/>
+<stop offset="0.92" stop-color="#b2e56b"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.5625 0 0 1.5625 56 56)" gradientUnits="userSpaceOnUse" id="LinearGradient_5" x1="277.54" x2="48.12" y1="160.72" y2="158.58">
+<stop offset="0.39" stop-color="#fcf84a"/>
+<stop offset="0.54" stop-color="#ecf451"/>
+<stop offset="0.83" stop-color="#c2e964"/>
+<stop offset="0.92" stop-color="#b2e56b"/>
+</linearGradient>
+</defs>
+<g id="Ebene-1" vectornator:layerName="Ebene 1">
+<path d="M2.84217e-14 95C2.84217e-14 42.5329 42.5329 0 95 0L417 0C469.467 0 512 42.5329 512 95L512 417C512 469.467 469.467 512 417 512L95 512C42.5329 512 2.84217e-14 469.467 2.84217e-14 417L2.84217e-14 95Z" fill="#232531" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rechteck 1"/>
+<g opacity="1" vectornator:layerName="g">
+<path d="M336.625 119.125L453.5 216L411 301.625L341 282.25L279.75 282.25L336.625 119.125Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="polygon"/>
+<path d="M218.5 182.25L196 301.625L194.125 342.875L136.625 367.25L56 376L80.375 117.25L227.25 56L317.25 115.375L218.5 182.25Z" fill="url(#LinearGradient_2)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="polygon"/>
+<path d="M218.5 182.25L229.75 412.875L192.875 456L56 376L168.5 207.875L218.5 182.25Z" fill="url(#LinearGradient_3)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="polygon"/>
+<path d="M369.75 165.375L231 165.375L353.5 56L369.75 165.375Z" fill="url(#LinearGradient_4)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="polygon"/>
+<path d="M456 413.5L334.125 455.375L171.625 409.75L218.5 182.25L237.25 165.375L336.625 156L327.25 255.375L406 224.75L456 413.5Z" fill="url(#LinearGradient_5)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="polygon"/>
+<path d="M131 131L381 131L381 131L381 381L381 381L131 381L131 381L131 131L131 131Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="rect"/>
+<path d="M154.75 334.125L248.5 334.125L248.5 349.75L154.75 349.75L154.75 334.125ZM154.125 163.5L196.625 163.5C221.625 163.5 236 177.875 236 199.125C236 222.875 217.25 235.375 194.125 235.375L176.625 235.375L176.625 266.625L154.125 266.625L154.125 163.5L154.125 163.5ZM212.875 200.375C212.875 190.375 206 184.75 194.125 184.75L176.625 184.75L176.625 216.625L194.75 216.625C207.031 216.625 212.875 209.125 212.875 200.375ZM244.75 216C244.431 201.649 249.991 187.791 260.141 177.641C270.291 167.491 284.149 161.931 298.5 162.25C317.875 162.25 329.75 168.5 339.125 178.5L324.75 195.375C316.625 187.875 308.5 183.5 298.5 183.5C281 183.5 268.5 197.875 268.5 216C268.5 233.5 281 248.5 298.5 248.5C310.375 248.5 317.875 243.5 326 236.625L340.375 251C329.75 262.25 317.875 269.75 297.875 269.75C283.676 269.751 270.068 264.068 260.087 253.97C250.106 243.871 244.583 230.198 244.75 216Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
+</g>
+</svg>

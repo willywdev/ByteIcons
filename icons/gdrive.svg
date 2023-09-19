@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 512 512" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Ebene-1" vectornator:layerName="Ebene 1">
+<path d="M2.84217e-14 95C2.84217e-14 42.5329 42.5329 0 95 0L417 0C469.467 0 512 42.5329 512 95L512 417C512 469.467 469.467 512 417 512L95 512C42.5329 512 2.84217e-14 469.467 2.84217e-14 417L2.84217e-14 95Z" fill="#242628" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rechteck 1"/>
+</g>
+<g id="Ebene-2" vectornator:layerName="Ebene 2">
+<g opacity="1" vectornator:layerName="new-logo-drive-google.svg">
+<path d="M317.233 309.019L195.326 309.019L143.125 400.204C149.404 403.397 156.536 405.445 161.148 405.445C209.104 405.445 306.972 404.735 355.555 404.735C360.551 404.735 365.227 403.032 369.421 400.364L317.233 309.019Z" fill="#4185f3" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M143.125 400.207L195.326 309.024L89.5455 309.024C89.4923 315.36 91.7453 321.157 95.2756 327.771C105.111 346.171 121.751 375.584 131.525 390.947C133.935 394.733 143.5 400.4 143.125 400.207Z" fill="#1767d1" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M317.233 309.019L369.439 400.35C376.205 396.049 381.718 389.237 385.299 382.965C393.381 368.818 407.048 345.263 416.475 329.314C420.856 321.899 422.56 315.24 422.453 309.013L317.233 309.019Z" fill="#e94235" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M195.337 309.027L256.228 203.168L201.808 112.438C195.923 116.309 190.888 121.563 188.603 125.565C164.849 167.226 116.997 252.61 92.9339 294.81C90.4682 299.128 89.2877 304.06 89.5314 309.027L195.337 309.027Z" fill="#30a753" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M317.229 309.027L256.228 203.168L309.154 112.541C315.041 116.415 321.502 121.563 323.786 125.569C347.541 167.226 395.393 252.61 419.466 294.81C421.95 299.149 422.698 304.059 422.457 309.027L317.229 309.027Z" fill="#f9bc00" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M201.802 112.452L256.228 203.168L309.154 112.541C303.69 109.347 295.952 107.456 288.458 107.219C267.611 106.523 233.812 106.243 215.621 107.034C211.136 107.229 201.858 112.413 201.802 112.452Z" fill="#0f8038" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
+</g>
+</svg>
