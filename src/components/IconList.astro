@@ -2,7 +2,7 @@
 const icons = await Astro.glob("/icons/*.svg");
 ---
 
-<section class="grid grid-cols-10 gap-1">
+<section class="grid grid-cols-10 gap-1.5">
   {
     icons.map((icon) => {
       return (
@@ -10,7 +10,7 @@ const icons = await Astro.glob("/icons/*.svg");
           src={icon.default.src}
           alt="Android"
           loading="lazy"
-          class="w-16 h-16"
+          class="w-14 h-14"
         />
       );
     })

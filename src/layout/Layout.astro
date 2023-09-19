@@ -1,5 +1,6 @@
 ---
 import GithubCorner from "../components/GithubCorner.astro";
+import Header from "../components/Header.astro";
 import Socials from "../components/Socials.astro";
 const { title } = Astro.props;
 ---
@@ -14,7 +15,10 @@ const { title } = Astro.props;
   </head>
   <body class="flex flex-col items-center mt-16">
     <GithubCorner />
-    <slot />
+    <Header />
+    <main class="w-3/4">
+      <slot />
+    </main>
     <Socials />
   </body>
 </html>
