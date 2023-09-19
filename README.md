@@ -6,6 +6,8 @@
 
 > If these icons make your projects dance, a little shoutout would be awesome 🕺🏼
 
+<p style="color: red">Icons are not showing correctly on some Chromium based browsers!</p>
+
 ## 📋 Table of Contents
 
 - [🚀 Features](#features)
