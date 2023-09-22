@@ -2,13 +2,18 @@ const fs = require("fs");
 const path = require("path");
 
 module.exports = async (req, res) => {
-  const filePath = path.resolve(__dirname, "../public/combined-icons.svg");
-  const fileStream = fs.createReadStream(filePath);
+  const icons = req.query.icons.split(","); // Parse the icons from the URL query parameters
 
-  res.writeHead(200, {
-    "Content-Type": "image/svg+xml",
-    "Content-Length": fs.statSync(filePath).size,
-  });
+  const svgData = await Promise.all(
+    icons.map(async (iconName) => {
+      const filePath = path.resolve(__dirname, `../icons/${iconName}.svg`);
+      const fileContent = await fs.promises.readFile(filePath, "utf-8");
+      return fileContent;
+    })
+  );
 
-  fileStream.pipe(res);
+  const combinedSvg = `<svg>${svgData.join("")}</svg>`;
+
+  res.setHeader("Content-Type", "image/svg+xml");
+  res.send(combinedSvg);
 };
