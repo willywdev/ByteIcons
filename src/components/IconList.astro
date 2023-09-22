@@ -2,16 +2,20 @@
 const icons = await Astro.glob("/icons/*.svg");
 ---
 
+<h2 class="text-xl font-bold mb-2">All icons ({icons.length})</h2>
+
 <section class="grid grid-cols-10 gap-1.5">
   {
     icons.map((icon) => {
       return (
-        <img
-          src={icon.default.src}
-          alt="Android"
-          loading="lazy"
-          class="w-14 h-14"
-        />
+        <a href={icon.default.src}>
+          <img
+            src={icon.default.src}
+            alt="Android"
+            loading="lazy"
+            class="w-14 h-14"
+          />
+        </a>
       );
     })
   }
