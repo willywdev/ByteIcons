@@ -15,26 +15,26 @@
       }
 
       .cls-4 {
-        fill: #27282c;
+        fill: url(#Unbenannter_Verlauf);
       }
 
       .cls-5 {
-        fill: url(#Unbenannter_Verlauf_5);
+        fill: #27282c;
       }
 
       .cls-6 {
-        fill: url(#Unbenannter_Verlauf_3);
+        fill: url(#Unbenannter_Verlauf_5);
       }
 
       .cls-7 {
-        fill: url(#Unbenannter_Verlauf_11);
+        fill: url(#Unbenannter_Verlauf_3);
       }
     </style>
-    <linearGradient id="Unbenannter_Verlauf_11" data-name="Unbenannter Verlauf 11" x1="1.17" y1="253.18" x2="2.38" y2="253.18" gradientTransform="translate(-34.8 29673.2) scale(111.2 -116.8)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="Unbenannter_Verlauf" data-name="Unbenannter Verlauf" x1="1.2" y1="2.85" x2="2.28" y2="2.85" gradientTransform="translate(-34.8 -227.6) scale(111.2 116.8)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#21d789"/>
       <stop offset="1" stop-color="#07c3f2"/>
     </linearGradient>
-    <linearGradient id="Unbenannter_Verlauf_2" data-name="Unbenannter Verlauf 2" x1=".69" y1="253.69" x2="2.33" y2="254.68" gradientTransform="translate(-178 52160.8) scale(167.2 -204.8)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="Unbenannter_Verlauf_2" data-name="Unbenannter Verlauf 2" x1=".82" y1="2.27" x2="2.27" y2="1.39" gradientTransform="translate(-178 -268) scale(167.2 204.8)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#fcf84a"/>
       <stop offset=".11" stop-color="#a7eb62"/>
       <stop offset=".21" stop-color="#5fe077"/>
@@ -49,7 +49,7 @@
       <stop offset=".97" stop-color="#0bc6e1"/>
       <stop offset="1" stop-color="#07c3f2"/>
     </linearGradient>
-    <linearGradient id="Unbenannter_Verlauf_3" data-name="Unbenannter Verlauf 3" x1="2.01" y1="253.42" x2="2.42" y2="254.24" gradientTransform="translate(-178 44664) scale(111.2 -175.2)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="Unbenannter_Verlauf_3" data-name="Unbenannter Verlauf 3" x1="2.09" y1="2.49" x2="2.46" y2="1.76" gradientTransform="translate(-178 -187.2) scale(111.2 175.2)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#21d789"/>
       <stop offset=".16" stop-color="#24d788"/>
       <stop offset=".3" stop-color="#2fd886"/>
@@ -60,7 +60,7 @@
       <stop offset=".93" stop-color="#cfe865"/>
       <stop offset="1" stop-color="#f1eb5e"/>
     </linearGradient>
-    <linearGradient id="Unbenannter_Verlauf_4" data-name="Unbenannter Verlauf 4" x1="1.94" y1="250.18" x2="3.07" y2="252.1" gradientTransform="translate(-66 17652) scale(88.8 -70)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="Unbenannter_Verlauf_4" data-name="Unbenannter Verlauf 4" x1="1.97" y1="5.8" x2="2.97" y2="4.1" gradientTransform="translate(-66 -268) scale(88.8 70)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#21d789"/>
       <stop offset=".06" stop-color="#24d788"/>
       <stop offset=".11" stop-color="#2fd886"/>
@@ -71,7 +71,7 @@
       <stop offset=".5" stop-color="#8ce173"/>
       <stop offset=".92" stop-color="#b2e56b"/>
     </linearGradient>
-    <linearGradient id="Unbenannter_Verlauf_5" data-name="Unbenannter Verlauf 5" x1="2" y1="254.12" x2=".89" y2="254.13" gradientTransform="translate(-104 48845.6) scale(182 -191.6)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="Unbenannter_Verlauf_5" data-name="Unbenannter Verlauf 5" x1="1.92" y1="1.87" x2=".93" y2="1.86" gradientTransform="translate(-104 -204) scale(182 191.6)" gradientUnits="userSpaceOnUse">
       <stop offset=".39" stop-color="#fcf84a"/>
       <stop offset=".54" stop-color="#ecf451"/>
       <stop offset=".83" stop-color="#c2e964"/>
@@ -79,15 +79,15 @@
     </linearGradient>
   </defs>
   <g id="Ebene_2" data-name="Ebene 2">
-    <rect class="cls-4" width="256" height="256" rx="35" ry="35"/>
+    <rect class="cls-5" width="256" height="256" rx="35" ry="35"/>
   </g>
   <g>
-    <polygon class="cls-7" points="173.35 51.01 239.09 105.5 215.19 153.66 175.81 142.77 141.36 142.77 173.35 51.01"/>
-    <polygon class="cls-2" points="106.91 86.52 94.25 153.66 93.2 176.87 60.85 190.58 15.5 195.5 29.21 49.95 111.83 15.5 162.45 48.9 106.91 86.52"/>
-    <polygon class="cls-6" points="106.91 86.52 113.23 216.24 92.49 240.5 15.5 195.5 78.78 100.93 106.91 86.52"/>
-    <polygon class="cls-3" points="191.98 77.02 113.94 77.02 182.84 15.5 191.98 77.02"/>
-    <polygon class="cls-5" points="240.5 216.59 171.95 240.15 80.54 214.48 106.91 86.52 117.45 77.02 173.35 71.75 168.08 127.65 212.38 110.42 240.5 216.59"/>
-    <rect x="57.69" y="57.69" width="140.62" height="140.62"/>
-    <path class="cls-1" d="m71.05,171.95h52.73v8.79h-52.73v-8.79Zm-.35-95.98h23.91c14.06,0,22.15,8.09,22.15,20.04,0,13.36-10.55,20.39-23.55,20.39h-9.84v17.58h-12.66v-58.01h0Zm33.05,20.74c0-5.63-3.87-8.79-10.55-8.79h-9.84v17.93h10.2c6.91,0,10.2-4.22,10.2-9.14Zm17.93,8.79c-.18-8.07,2.95-15.87,8.66-21.58s13.5-8.84,21.58-8.66c10.9,0,17.58,3.52,22.85,9.14l-8.09,9.49c-4.57-4.22-9.14-6.68-14.77-6.68-9.84,0-16.87,8.09-16.87,18.28s7.03,18.28,16.87,18.28c6.68,0,10.9-2.81,15.47-6.68l8.09,8.09c-5.98,6.33-12.66,10.55-23.91,10.55-7.99,0-15.64-3.2-21.26-8.88-5.61-5.68-8.72-13.37-8.63-21.36Z"/>
+    <polygon class="cls-4" points="168.31 59.56 226.75 108 205.5 150.81 170.5 141.13 139.88 141.13 168.31 59.56"/>
+    <polygon class="cls-2" points="109.25 91.13 98 150.81 97.07 171.44 68.31 183.63 28 188 40.19 58.62 113.63 28 158.62 57.69 109.25 91.13"/>
+    <polygon class="cls-7" points="109.25 91.13 114.87 206.44 96.44 228 28 188 84.25 103.94 109.25 91.13"/>
+    <polygon class="cls-3" points="184.87 82.68 115.5 82.68 176.75 28 184.87 82.68"/>
+    <polygon class="cls-6" points="228 206.75 167.07 227.69 85.81 204.87 109.25 91.13 118.62 82.68 168.31 78 163.63 127.69 203 112.37 228 206.75"/>
+    <rect x="65.5" y="65.5" width="125" height="125"/>
+    <path class="cls-1" d="m77.38,167.07h46.87v7.81h-46.87v-7.81Zm-.31-85.32h21.25c12.5,0,19.69,7.19,19.69,17.81,0,11.88-9.38,18.12-20.93,18.12h-8.75v15.63h-11.25v-51.56h0Zm29.38,18.44c0-5-3.44-7.81-9.38-7.81h-8.75v15.94h9.07c6.14,0,9.07-3.75,9.07-8.12h0Zm15.94,7.81c-.16-7.17,2.62-14.11,7.7-19.18,5.08-5.08,12-7.86,19.18-7.7,9.69,0,15.63,3.13,20.31,8.12l-7.19,8.44c-4.06-3.75-8.12-5.94-13.13-5.94-8.75,0-15,7.19-15,16.25s6.25,16.25,15,16.25c5.94,0,9.69-2.5,13.75-5.94l7.19,7.19c-5.32,5.63-11.25,9.38-21.25,9.38-7.1,0-13.9-2.84-18.9-7.89-4.99-5.05-7.75-11.88-7.67-18.99h0Z"/>
   </g>
 </svg>
