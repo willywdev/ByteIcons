@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: url(#Unbenannter_Verlauf_4);
+      }
+
+      .cls-3 {
+        fill: url(#Unbenannter_Verlauf_7);
+      }
+
+      .cls-4 {
+        fill: #27282c;
+      }
+
+      .cls-5 {
+        fill: url(#Unbenannter_Verlauf_4-3);
+      }
+
+      .cls-6 {
+        fill: url(#Unbenannter_Verlauf_4-2);
+      }
+    </style>
+    <linearGradient id="Unbenannter_Verlauf_7" data-name="Unbenannter Verlauf 7" x1="2.47" y1="253" x2="3.48" y2="253" gradientTransform="translate(-96.8 28096.8) scale(74.4 -110.8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ed358c"/>
+      <stop offset=".16" stop-color="#e9388c"/>
+      <stop offset=".3" stop-color="#de418c"/>
+      <stop offset=".43" stop-color="#cc508c"/>
+      <stop offset=".57" stop-color="#b2658d"/>
+      <stop offset=".7" stop-color="#90808d"/>
+      <stop offset=".83" stop-color="#67a18e"/>
+      <stop offset=".95" stop-color="#37c78f"/>
+      <stop offset="1" stop-color="#22d88f"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_4" data-name="Unbenannter Verlauf 4" x1="2.57" y1="254.34" x2="2.23" y2="253.16" gradientTransform="translate(-178 47860) scale(97.6 -188)" gradientUnits="userSpaceOnUse">
+      <stop offset=".09" stop-color="#22d88f"/>
+      <stop offset=".9" stop-color="#029de0"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_4-2" data-name="Unbenannter Verlauf 4" x1="-246.55" y1="542.09" x2="-349.5" y2="661.62" gradientTransform="translate(-178 60976.8) scale(250.8 -239.2)" xlink:href="#Unbenannter_Verlauf_4"/>
+    <linearGradient id="Unbenannter_Verlauf_4-3" data-name="Unbenannter Verlauf 4" x1="162.39" y1="281.86" x2="197.37" y2="287.98" gradientTransform="translate(-84.8 37422) scale(162.8 -146.8)" xlink:href="#Unbenannter_Verlauf_4"/>
+  </defs>
+  <g id="Ebene_2" data-name="Ebene 2">
+    <rect class="cls-4" width="256" height="256" rx="35" ry="35"/>
+  </g>
+  <g>
+    <polygon class="cls-3" points="101.98 106.55 86.87 112.88 100.58 15.5 152.26 43.98 101.98 106.55"/>
+    <polygon class="cls-2" points="93.9 150.5 101.28 15.5 36.24 56.28 15.5 180.73 93.9 150.5"/>
+    <polygon class="cls-6" points="235.93 83 207.1 23.94 152.26 43.98 112.18 88.27 15.5 180.73 88.62 234.17 180.03 151.2 235.93 83"/>
+    <polygon class="cls-5" points="110.07 111.48 97.41 188.47 148.74 228.2 204.99 240.5 240.5 160.34 110.07 111.48"/>
+    <rect x="57.69" y="57.69" width="140.62" height="140.62"/>
+    <path class="cls-1" d="m71.05,171.95h52.73v8.79h-52.73v-8.79Zm-1.05-66.45c-.18-8.07,2.95-15.87,8.66-21.58,5.71-5.71,13.5-8.84,21.58-8.66,10.9,0,17.58,3.52,22.85,9.14l-8.09,9.49c-4.57-4.22-9.14-6.68-14.77-6.68-9.84,0-16.88,8.09-16.88,18.28s7.03,18.28,16.88,18.28c6.68,0,10.9-2.81,15.47-6.68l8.09,8.09c-5.98,6.33-12.66,10.55-23.91,10.55-7.99,0-15.64-3.2-21.26-8.88-5.61-5.68-8.72-13.37-8.63-21.36Zm62.58-29.53h13.01v47.46h25.31v10.9h-38.32v-58.36Z"/>
+  </g>
+</svg>

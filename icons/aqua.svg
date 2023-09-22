@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: url(#Unbenannter_Verlauf_2);
+      }
+
+      .cls-3 {
+        fill: #27282c;
+      }
+
+      .cls-4 {
+        fill: url(#Unbenannter_Verlauf_6);
+      }
+    </style>
+    <linearGradient id="Unbenannter_Verlauf_6" data-name="Unbenannter Verlauf 6" x1="275.29" y1="-217.31" x2="245.01" y2="-108.03" gradientTransform="translate(-178 -12) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#087cfa"/>
+      <stop offset="1" stop-color="#6b57ff"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_2" data-name="Unbenannter Verlauf 2" x1="233.72" y1="-233.58" x2="346.46" y2="-71.4" gradientTransform="translate(-178 -12) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#087cfa"/>
+      <stop offset=".39" stop-color="#097ff6"/>
+      <stop offset=".96" stop-color="#3bea62"/>
+    </linearGradient>
+  </defs>
+  <g id="Ebene_2" data-name="Ebene 2">
+    <rect class="cls-3" width="256" height="256" rx="35" ry="35"/>
+  </g>
+  <g>
+    <path class="cls-4" d="m121.69,95.6l-97.26-23.77-11.43,27.04,35.06,112.16,93.17,31.97-19.53-147.4Z"/>
+    <path class="cls-2" d="m243,78.78l-23.38-45.77L100.33,13l-52.27,198.03,93.17,31.97,5-8.19,96.78-156.02Z"/>
+    <path d="m200.36,56.13H56.61v143.75h143.75V56.13Z"/>
+    <path class="cls-1" d="m152.99,73.66h10.98l23.18,54.48h-12.43l-4.94-12.13h-22.87l-4.94,12.13h-12.13l23.16-54.48Zm12.52,31.84l-7.19-17.54-7.19,17.54h14.37Z"/>
+    <path class="cls-1" d="m120.36,129.76l-5.95-5.34c-4.56,2.93-10.04,4.64-16.08,4.64-16.69,0-28.68-12.43-28.68-27.82v-.16c0-15.38,12.13-27.98,28.82-27.98s28.68,12.43,28.68,27.82v.16c0,5.71-1.78,11.05-4.8,15.54l5.57,4.71-7.56,8.43Zm-14.75-13.14l-8.8-7.49,7.56-8.5,8.89,8.03c.93-2.16,1.47-4.71,1.47-7.42v-.16c0-9.27-6.79-17-16.39-17s-16.23,7.58-16.23,16.85v.16c0,9.27,6.81,17,16.39,17,2.61,0,5-.47,7.1-1.47Z"/>
+    <path class="cls-1" d="m123.99,172.92h-53.91v8.98h53.91v-8.98Z"/>
+  </g>
+</svg>

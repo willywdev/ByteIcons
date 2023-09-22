@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: url(#Unbenannter_Verlauf_2);
+      }
+
+      .cls-3 {
+        fill: #27282c;
+      }
+
+      .cls-4 {
+        fill: url(#Unbenannter_Verlauf_3);
+      }
+
+      .cls-5 {
+        fill: url(#Unbenannter_Verlauf_10);
+      }
+    </style>
+    <linearGradient id="Unbenannter_Verlauf_10" data-name="Unbenannter Verlauf 10" x1="1.24" y1="253.35" x2="1.89" y2="254.4" gradientTransform="translate(-178 49908) scale(144.8 -196)" gradientUnits="userSpaceOnUse">
+      <stop offset=".02" stop-color="#765af8"/>
+      <stop offset=".38" stop-color="#b345f1"/>
+      <stop offset=".76" stop-color="#fa3293"/>
+      <stop offset=".94" stop-color="#ff318c"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_2" data-name="Unbenannter Verlauf 2" x1="1.58" y1="253.34" x2="1.27" y2="254.14" gradientTransform="translate(-97.2 39888) scale(175.2 -156.8)" gradientUnits="userSpaceOnUse">
+      <stop offset=".18" stop-color="#765af8"/>
+      <stop offset=".24" stop-color="#8655f6"/>
+      <stop offset=".34" stop-color="#9f4cf3"/>
+      <stop offset=".44" stop-color="#ae47f2"/>
+      <stop offset=".52" stop-color="#b345f1"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_3" data-name="Unbenannter Verlauf 3" x1="1.7" y1="254.12" x2="1.08" y2="254.52" gradientTransform="translate(-124 61392) scale(202 -240.8)" gradientUnits="userSpaceOnUse">
+      <stop offset=".02" stop-color="#765af8"/>
+      <stop offset=".38" stop-color="#b345f1"/>
+    </linearGradient>
+  </defs>
+  <g id="Ebene_2" data-name="Ebene 2">
+    <rect class="cls-3" width="256" height="256" rx="35" ry="35"/>
+  </g>
+  <g>
+    <path class="cls-5" d="m15.5,58.74L53.82,15.5l78.4,16.88,10.55,31.99-7.73,55.55-31.17-15.95,1.64,44.43v38.67l-68.55.7L15.5,58.74Z"/>
+    <polygon class="cls-2" points="86.52 147.34 90.73 94.25 154.37 28.86 211.32 39.41 240.5 112.18 209.91 142.41 160.34 134.33 129.05 166.67 86.52 147.34"/>
+    <polygon class="cls-4" points="154.37 28.86 62.96 110.07 80.54 214.13 156.48 240.5 240.5 190.23 154.37 28.86"/>
+    <rect x="57.69" y="57.69" width="140.62" height="140.62"/>
+    <path class="cls-1" d="m71.05,171.95h52.73v8.79h-52.73v-8.79Zm-.7-95.98h23.91c14.06,0,22.5,8.09,22.5,20.04,0,13.36-10.55,20.39-23.55,20.39h-9.84v17.58h-13.01v-58.01h0Zm23.2,29.88c6.13,0,10.2-4.22,10.2-9.14,0-5.63-3.87-8.79-10.55-8.79h-9.84v17.93h10.2Zm26.37,20.04l7.73-9.14c5.27,4.22,10.9,7.03,17.58,7.03,5.27,0,8.44-2.11,8.44-5.62,0-3.16-2.11-4.92-11.95-7.38-11.95-3.16-19.34-6.33-19.34-17.93v-.35c0-10.55,8.44-17.58,20.39-17.58,7.88-.03,15.56,2.56,21.8,7.38l-6.68,9.84c-5.27-3.52-10.2-5.62-15.12-5.62s-7.38,2.11-7.38,5.27c0,3.87,2.46,5.27,12.66,7.73,11.95,3.16,18.63,7.38,18.63,17.58,0,11.6-8.79,18.28-21.45,18.28-9.33.13-18.37-3.26-25.31-9.49Z"/>
+  </g>
+</svg>
