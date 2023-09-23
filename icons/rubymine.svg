@@ -22,7 +22,7 @@
         fill: url(#Unbenannter_Verlauf_3);
       }
     </style>
-    <linearGradient id="Unbenannter_Verlauf" data-name="Unbenannter Verlauf" x1="1.4" y1="2.34" x2="1.16" y2="1.65" gradientTransform="translate(-152.4 -268) scale(230.4 191.14)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="Unbenannter_Verlauf" data-name="Unbenannter Verlauf" x1="1.4" y1="253.66" x2="1.16" y2="254.35" gradientTransform="translate(-152.4 48663.84) scale(230.4 -191.14)" gradientUnits="userSpaceOnUse">
       <stop offset=".17" stop-color="#ff1f51"/>
       <stop offset=".28" stop-color="#ff3648"/>
       <stop offset=".47" stop-color="#ff593b"/>
@@ -30,11 +30,11 @@
       <stop offset=".81" stop-color="#ff812b"/>
       <stop offset=".94" stop-color="#ff8629"/>
     </linearGradient>
-    <linearGradient id="Unbenannter_Verlauf_2" data-name="Unbenannter Verlauf 2" x1="1.69" y1="2.84" x2="1.55" y2="3.38" gradientTransform="translate(-158.38 -245.82) scale(166.4 109.24)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="Unbenannter_Verlauf_2" data-name="Unbenannter Verlauf 2" x1="1.69" y1="253.16" x2="1.55" y2="252.62" gradientTransform="translate(-158.38 27719.62) scale(166.4 -109.24)" gradientUnits="userSpaceOnUse">
       <stop offset=".02" stop-color="#9039d0"/>
       <stop offset=".63" stop-color="#ff1f51"/>
     </linearGradient>
-    <linearGradient id="Unbenannter_Verlauf_3" data-name="Unbenannter Verlauf 3" x1="1.02" y1="1.31" x2="1.66" y2="2.01" gradientTransform="translate(-178 -245.82) scale(202.24 233.82)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="Unbenannter_Verlauf_3" data-name="Unbenannter Verlauf 3" x1="1.02" y1="254.69" x2="1.66" y2="253.99" gradientTransform="translate(-178 59612.1) scale(202.24 -233.82)" gradientUnits="userSpaceOnUse">
       <stop offset=".11" stop-color="#9039d0"/>
       <stop offset=".39" stop-color="#ff1f51"/>
       <stop offset=".63" stop-color="#ff1f51"/>
@@ -46,13 +46,13 @@
     </linearGradient>
   </defs>
   <g id="Ebene_2" data-name="Ebene 2">
-    <rect class="cls-4" width="256" height="256" rx="35" ry="35"/>
+    <rect class="cls-4" width="256" height="256" rx="45" ry="45"/>
   </g>
   <g>
     <polygon class="cls-3" points="194 28 137.32 48.68 92 28 48 139.32 98.68 118.68 98 175.32 206.68 177.32 228 67.32 194 28"/>
     <polygon class="cls-2" points="173.32 92.68 101.32 45.32 43.32 81.32 170.68 130.68 173.32 92.68"/>
     <polygon class="cls-5" points="111.32 222.68 186 212.68 162 166.68 178 148 179.32 136 101.32 45.32 28 63.32 28 168.68 70 228 111.32 222.68 111.32 222.68 111.32 222.68"/>
     <rect x="61.32" y="61.32" width="133.32" height="133.32"/>
-    <path class="cls-1" d="m126.68,74.68h13.32l14,25.32,14.68-25.32h12.66v60h-12v-39.34l-15.32,26-15.32-25.32v38.68h-12v-60h0Zm-52,0h24.66c6.67,0,12,2,16,6,3.32,3.32,4.68,8,4.68,14.06.02,4.23-1.14,8.38-3.32,12-1.93,3.25-5.03,5.64-8.68,6.68l13.32,21.32h-14.06l-11.28-18.74h-10v18.68h-12v-60s.68,0,.68,0Zm24,29.32c2.39.16,4.76-.55,6.68-2,1.66-1.56,2.62-3.72,2.68-6,.13-2.51-.84-4.95-2.68-6.68-1.92-1.43-4.28-2.12-6.68-1.96h-12v17.3h12v-.68h0Zm-24,68.68h50v8h-50v-8Z"/>
+    <path class="cls-1" d="m126.68,74.68h13.32l14,25.32,14.68-25.32h12.66v60h-12v-39.34l-15.32,26-15.32-25.32v38.68h-12v-60h0l-.02-.02Zm-52,0h24.66c6.67,0,12,2,16,6,3.32,3.32,4.68,8,4.68,14.06.02,4.23-1.14,8.38-3.32,12-1.93,3.25-5.03,5.64-8.68,6.68l13.32,21.32h-14.06l-11.28-18.74h-10v18.68h-12v-60s.68,0,.68,0Zm24,29.32c2.39.16,4.76-.55,6.68-2,1.66-1.56,2.62-3.72,2.68-6,.13-2.51-.84-4.95-2.68-6.68-1.92-1.43-4.28-2.12-6.68-1.96h-12v17.3h12v-.68h0v.02Zm-24,68.68h50v8h-50v-8Z"/>
   </g>
 </svg>
