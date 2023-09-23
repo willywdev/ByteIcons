@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2684ff;
+      }
+
+      .cls-2 {
+        fill: url(#Unbenannter_Verlauf_23);
+      }
+
+      .cls-3 {
+        fill: #27282c;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+    <linearGradient id="Unbenannter_Verlauf_23" data-name="Unbenannter Verlauf 23" x1="1.81" y1="254" x2="1.33" y2="253.49" gradientTransform="translate(-139.39 38907.7) scale(206 -152.73)" gradientUnits="userSpaceOnUse">
+      <stop offset=".18" stop-color="#0052cc"/>
+      <stop offset="1" stop-color="#2684ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Ebene_2" data-name="Ebene 2">
+    <path class="cls-3" d="m45,0h166c24.85,0,45,20.15,45,45v166c0,24.85-20.15,45-45,45H45c-24.85,0-45-20.15-45-45V45C0,20.15,20.15,0,45,0Z"/>
+  </g>
+  <g>
+    <polygon class="cls-4" points="107.12 157.27 148.88 157.27 158.95 98.42 96.02 98.42 107.12 157.27"/>
+    <path class="cls-1" d="m34.49,38.08c-1.89-.02-3.7.79-4.94,2.22-1.24,1.43-1.77,3.34-1.47,5.21l27.2,165.14c.7,4.17,4.29,7.24,8.52,7.27h130.5c3.17.04,5.9-2.25,6.41-5.38l27.2-166.99c.3-1.87-.24-3.78-1.47-5.21-1.24-1.43-3.04-2.25-4.94-2.22l-187.02-.03Zm114.54,119.35h-41.65l-11.28-58.92h63.02l-10.09,58.92Z"/>
+    <path class="cls-2" d="m219.1,98.42h-60.09l-10.08,58.87h-41.62l-49.14,58.33c1.56,1.35,3.54,2.1,5.6,2.11h130.43c3.17.04,5.9-2.25,6.4-5.38l18.5-113.94Z"/>
+  </g>
+</svg>
