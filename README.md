@@ -26,6 +26,7 @@
 | Icon                                             | Name             |
 | ------------------------------------------------ | ---------------- |
 | ![11ty](/icons/11ty.svg)                         | 11ty             |
+| ![actix](/icons/actix.svg)                       | actix            |
 | ![aftereffects](/icons/aftereffects.svg)         | aftereffects     |
 | ![alpine](/icons/alpine.svg)                     | alpine           |
 | ![angular](/icons/angular.svg)                   | angular          |
@@ -48,11 +49,13 @@
 | ![d3](/icons/d3.svg)                             | d3               |
 | ![deno](/icons/deno.svg)                         | deno             |
 | ![django](/icons/django.svg)                     | django           |
+| ![docker](/icons/docker.svg)                     | docker           |
 | ![drupal](/icons/drupal.svg)                     | drupal           |
 | ![elementui](/icons/elementui.svg)               | elementui        |
 | ![emberjs](/icons/emberjs.svg)                   | emberjs          |
 | ![eslint](/icons/eslint.svg)                     | eslint           |
 | ![fastapi](/icons/fastapi.svg)                   | fastapi          |
+| ![ferris](/icons/ferris.svg)                     | ferris           |
 | ![flask](/icons/flask.svg)                       | flask            |
 | ![fresh](/icons/fresh.svg)                       | fresh            |
 | ![gatsby](/icons/gatsby.svg)                     | gatsby           |
@@ -82,6 +85,7 @@
 | ![javascript](/icons/javascript.svg)             | javascript       |
 | ![jest](/icons/jest.svg)                         | jest             |
 | ![jquery](/icons/jquery.svg)                     | jquery           |
+| ![kubernetes](/icons/kubernetes.svg)             | kubernetes       |
 | ![laravel](/icons/laravel.svg)                   | laravel          |
 | ![lightroom](/icons/lightroom.svg)               | lightroom        |
 | ![markdown](/icons/markdown.svg)                 | markdown         |
@@ -92,7 +96,9 @@
 | ![nestjs](/icons/nestjs.svg)                     | nestjs           |
 | ![nextjs](/icons/nextjs.svg)                     | nextjs           |
 | ![nodejs](/icons/nodejs.svg)                     | nodejs           |
+| ![nomad](/icons/nomad.svg)                       | nomad            |
 | ![npm](/icons/npm.svg)                           | npm              |
+| ![numpy](/icons/numpy.svg)                       | numpy            |
 | ![nuxt](/icons/nuxt.svg)                         | nuxt             |
 | ![nx](/icons/nx.svg)                             | nx               |
 | ![photoshop](/icons/photoshop.svg)               | photoshop        |
@@ -102,11 +108,15 @@
 | ![premiere](/icons/premiere.svg)                 | premiere         |
 | ![prisma](/icons/prisma.svg)                     | prisma           |
 | ![python](/icons/python.svg)                     | python           |
+| ![pytorch](/icons/pytorch.svg)                   | pytorch          |
 | ![qwik](/icons/qwik.svg)                         | qwik             |
 | ![react](/icons/react.svg)                       | react            |
 | ![reactnative](/icons/reactnative.svg)           | reactnative      |
 | ![redux](/icons/redux.svg)                       | redux            |
+| ![rocket](/icons/rocket.svg)                     | rocket           |
 | ![rollup](/icons/rollup.svg)                     | rollup           |
+| ![rust](/icons/rust.svg)                         | rust             |
+| ![scipy](/icons/scipy.svg)                       | scipy            |
 | ![shopify](/icons/shopify.svg)                   | shopify          |
 | ![socketio](/icons/socketio.svg)                 | socketio         |
 | ![solidjs](/icons/solidjs.svg)                   | solidjs          |
@@ -117,7 +127,10 @@
 | ![symfony](/icons/symfony.svg)                   | symfony          |
 | ![t3gg](/icons/t3gg.svg)                         | t3gg             |
 | ![tailwindcss](/icons/tailwindcss.svg)           | tailwindcss      |
+| ![tensorflow](/icons/tensorflow.svg)             | tensorflow       |
+| ![tokiors](/icons/tokiors.svg)                   | tokiors          |
 | ![trpc](/icons/trpc.svg)                         | trpc             |
+| ![turbopack](/icons/turbopack.svg)               | turbopack        |
 | ![turborepo](/icons/turborepo.svg)               | turborepo        |
 | ![typescript](/icons/typescript.svg)             | typescript       |
 | ![v8engine](/icons/v8engine.svg)                 | v8engine         |
