@@ -7,6 +7,7 @@
 > If these icons make your projects dance, a little shoutout would be awesome 🕺🏼
 
 **❗️ Icons are not showing correctly on some Chromium based browsers!**
+**❗️ Also I'm looking for a way to dynamically create Icon-Images. If you can help, hit me up!**
 
 ## 📋 Table of Contents
 
