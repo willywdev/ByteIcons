@@ -1,0 +1,24 @@
+---
+let params = Astro.request.url.pathName;
+console.log(params);
+---
+
+<canvas id='canvas'></canvas>
+
+<script is:inline>
+  window.onload = async () => {
+    const canvas = document.getElementById("canvas");
+    const ctx = canvas.getContext("2d");
+    const img = new Image();
+    img.onload = () => {
+      ctx.drawImage(img, 0, 0);
+    };
+    img.src = "/icons/11ty.svg";
+
+    const img2 = new Image();
+    img2.onload = () => {
+      ctx.drawImage(img2, img.width + 5, 0);
+    };
+    img2.src = "/icons/actix.svg";
+  };
+</script>
